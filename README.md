@@ -6,3 +6,9 @@
 **联系**：5076483@qq.com
 
 如需要了解代码的具体实现请email联系。
+
+# 云手机中 Root 权限的实现原理与技术方案   
+详细介绍了云手机root权限的实现方法，具体代码需要联系作者。
+
+# Redroid11源码集成xposed框架详解    
+结合zygote、riru、edxposed等在代码层面上分析了edxposed框架的工作原理，进而详细介绍了在Redroid源码中该如何集成edxposed框架，需要修改哪些代码。
